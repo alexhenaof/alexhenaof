@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexhenaof
 - 👀 I’m interested in videogames, design, ux, food, movies, anime
-- 🌱 I’m currently learning coding (vue, php, laravel), unity
+- 🌱 I’m currently learning coding (react, threejs, sql, git), unity
 - 💞️ I’m looking to collaborate on UI UX design
 - 📫 How to reach me, https://www.linkedin.com/in/alexhenaofranco/
 
